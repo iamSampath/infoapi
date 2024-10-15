@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DroverApplication<drover>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.infoapi.drover.DroverApplication",
+            "projectName": "drover",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
